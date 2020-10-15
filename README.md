@@ -1,1 +1,2 @@
-# HCP_SeudoEEG
+# HCP_pseudoEEG
+
